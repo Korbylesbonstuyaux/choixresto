@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoixResto", "ChoixResto\ChoixResto.csproj", "{84407D8C-739C-45F1-B7EB-DB360C6AA04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoixResto.Tests", "ChoixResto.Tests\ChoixResto.Tests.csproj", "{091DF151-B19D-4987-BE34-7A5CD00685B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84407D8C-739C-45F1-B7EB-DB360C6AA04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84407D8C-739C-45F1-B7EB-DB360C6AA04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84407D8C-739C-45F1-B7EB-DB360C6AA04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84407D8C-739C-45F1-B7EB-DB360C6AA04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091DF151-B19D-4987-BE34-7A5CD00685B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091DF151-B19D-4987-BE34-7A5CD00685B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091DF151-B19D-4987-BE34-7A5CD00685B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091DF151-B19D-4987-BE34-7A5CD00685B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
